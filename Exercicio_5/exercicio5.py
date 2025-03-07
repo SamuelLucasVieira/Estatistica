@@ -2,7 +2,7 @@ import re
 import pandas as pd
 from Load import loads
 
-CSV_FILE_PATH = r"C:\Users\LAB-56\Desktop\dados_A618_D_2022-10-01_2023-12-31.csv"
+CSV_FILE_PATH = r"C:\Users\LAB-56\Desktop\Estatistica\dados_A618_D_2022-10-01_2023-12-31.csv"
 
 dao = loads()
 df = dao.load_csv(CSV_FILE_PATH)

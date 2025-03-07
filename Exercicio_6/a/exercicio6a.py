@@ -5,7 +5,7 @@ import seaborn as sns
 from Load import loads
 
 # Caminho do arquivo CSV
-CSV_FILE_PATH = r"C:\Users\LAB-56\Desktop\dados_A618_D_2022-10-01_2023-12-31.csv"
+CSV_FILE_PATH = r"C:\Users\LAB-56\Desktop\Estatistica\dados_A618_D_2022-10-01_2023-12-31.csv"
 
 # Carregar os dados
 dao = loads()
