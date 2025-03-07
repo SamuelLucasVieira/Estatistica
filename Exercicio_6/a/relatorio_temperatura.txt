@@ -1,0 +1,12 @@
+Métrica	Valor
+Média	18.60
+Mediana	18.76
+Moda	18.62
+Variância	9.11
+Desvio Padrão	3.02
+Q1 (25%)	16.55
+Q2 (50%) / Mediana	18.76
+Q3 (75%)	20.98
+P5 (5%)	13.38
+P95 (95%)	23.20
+Quantidade de Outliers	0
