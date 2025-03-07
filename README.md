@@ -5,6 +5,7 @@ Este documento fornece instruções sobre como configurar um ambiente virtual, i
 ## 📌 Requisitos
 Antes de executar o código, certifique-se de ter os seguintes requisitos instalados:
 
+- **Visual Studio Code**
 - **Python 3.x**
 - **Virtual Environment (venv)**
 - **Arquivo CSV contendo os dados de temperatura**
@@ -12,11 +13,11 @@ Antes de executar o código, certifique-se de ter os seguintes requisitos instal
 ## Clonando o Repositório e Configurando o Remoto
 
 Para clonar este repositório e configurar o remoto, execute os seguintes comandos:
-
+    Crie uma pasta e no caminho da pasta execute cmd, sendo necessário instalar o Visual Studio Code
 ```bash
-    git clone https://githu
-    b.com/SamuelLucasVieira/Estatistica.git
+    git clone https://github.com/SamuelLucasVieira/Estatistica.git
     cd Estatistica
+    code .
 ``` 
 ## 🚀 Como Configurar e Executar
 
@@ -42,7 +43,10 @@ Para clonar este repositório e configurar o remoto, execute os seguintes comand
 
 4. **Executar o script Python**:
    ```bash
-   python analise_temperatura.py
+    Entre em cada pasta do Exercício exemplo:
+    cd Exercicio_1
+    py exercicio1.py
+    para executar o próximo execute 'cd ..'
    ```
 
 ## 📂 Estrutura de Arquivos
